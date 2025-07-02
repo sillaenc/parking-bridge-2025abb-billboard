@@ -1,0 +1,3 @@
+{
+    "packet": "RST=1,LNE=$line,YSZ=1,EFF=090009000900,FIX=0,TXT=\\$$colorCode\\$F00\\$A00$text,"
+}
